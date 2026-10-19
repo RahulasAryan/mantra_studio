@@ -1,0 +1,8 @@
+{
+  "name": "MANTRA — Your Personal AI Operating System",
+  "description": "Your personal AI operating system featuring a floating avatar, smart voice commands, alarms, screenshots, app launcher, task management, and insights.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
